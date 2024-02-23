@@ -1,0 +1,36 @@
+#myform{
+    background-color: skyblue;
+}
+body{
+    background-color: #FFF6E9;
+}
+.input-boxes{
+    width: 50%;
+    height: 35px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+input{
+    margin-left: 20px;
+    border-radius: 5px;
+}
+label{
+    font-weight: 500;
+
+    margin-left: 20px;
+    color: black;
+}
+button{
+    background-color: #0D9276;
+    padding: 10px 32px;
+    margin: 20px ;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+}
+td{
+    background-color:#BBE2EC;
+}
+.container{
+    margin-top: 20px;
+}
